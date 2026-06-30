@@ -1,5 +1,11 @@
 # 🏡 AI Dubai Real Estate Agent
 
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM-black)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-CRM-34A853?logo=googlesheets&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green)
+
 An AI-powered real estate assistant built with **n8n** that automates property inquiries from Telegram, collects lead information, recommends suitable properties, and stores qualified leads for follow-up.
 
 ---
