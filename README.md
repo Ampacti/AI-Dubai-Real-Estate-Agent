@@ -52,6 +52,14 @@ git clone https://github.com/Ampacti/ai-real-estate-agent.git
 - property finer API key (reccomending xrapid key)
 
 4. Activate the workflow.
+---
+
+## Screenshots
+<img width="1375" height="896" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/78e381fc-b76e-4fcf-82b5-e878c9a717b1" />
+<img width="1558" height="894" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/6288079f-fa80-4c52-86f4-e3235825e7f4" />
+<img width="1860" height="810" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/6858da2a-6d77-47a0-8df5-4090aa1df995" />
+
+
 
 ---
 
