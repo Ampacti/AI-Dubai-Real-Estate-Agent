@@ -34,16 +34,6 @@ An AI-powered real estate assistant built with **n8n** that automates property i
 5. Lead is saved into simple memory.
 6. Agent receives notification.
 
----
-
-## Screenshots
-
-<img width="1375" height="896" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/3d573f3b-1a48-4d15-8acf-37665d9ae115" />
-<img width="1558" height="894" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/d5828b3c-a82c-473d-85c1-5a58eb123812" />
-<img width="1860" height="810" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/b38a5a8c-8bc1-4a78-9a82-1868902c61fd" />
-
-
----
 
 ## Installation
 
